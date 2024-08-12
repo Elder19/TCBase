@@ -1,0 +1,135 @@
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\bin\Debug\net8.0\appsettings.json
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\bin\Debug\net8.0\tarea001.staticwebassets.runtime.json
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\bin\Debug\net8.0\tarea001.exe
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\bin\Debug\net8.0\tarea001.deps.json
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\bin\Debug\net8.0\tarea001.runtimeconfig.json
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\bin\Debug\net8.0\tarea001.dll
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\bin\Debug\net8.0\tarea001.pdb
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.AssemblyInfoInputs.cache
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.AssemblyInfo.cs
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.csproj.CoreCompileInputs.cache
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.RazorAssemblyInfo.cache
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.RazorAssemblyInfo.cs
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\staticwebassets\msbuild.tarea001.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\staticwebassets\msbuild.build.tarea001.props
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.tarea001.props
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.tarea001.props
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\scopedcss\bundle\tarea001.styles.css
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\scopedcss\projectbundle\tarea001.bundle.scp.css
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.dll
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\refint\tarea001.dll
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.pdb
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.genruntimeconfig.cache
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\ref\tarea001.dll
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.csproj.AssemblyReference.cache
+C:\Users\coleg\OneDrive\Escritorio\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.csproj.Up2Date
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\bin\Debug\net8.0\appsettings.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\bin\Debug\net8.0\tarea001.staticwebassets.runtime.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\bin\Debug\net8.0\tarea001.exe
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\bin\Debug\net8.0\tarea001.deps.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\bin\Debug\net8.0\tarea001.runtimeconfig.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\bin\Debug\net8.0\tarea001.dll
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\bin\Debug\net8.0\tarea001.pdb
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.csproj.AssemblyReference.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.AssemblyInfoInputs.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.AssemblyInfo.cs
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.csproj.CoreCompileInputs.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.RazorAssemblyInfo.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.RazorAssemblyInfo.cs
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.sourcelink.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\staticwebassets\msbuild.tarea001.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\staticwebassets\msbuild.build.tarea001.props
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.tarea001.props
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.tarea001.props
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\scopedcss\bundle\tarea001.styles.css
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\scopedcss\projectbundle\tarea001.bundle.scp.css
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.csproj.Up2Date
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.dll
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\refint\tarea001.dll
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.pdb
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\tarea001.genruntimeconfig.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\tarea001\obj\Debug\net8.0\ref\tarea001.dll
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\bin\Debug\net8.0\appsettings.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\bin\Debug\net8.0\tarea001.staticwebassets.runtime.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\bin\Debug\net8.0\tarea001.exe
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\bin\Debug\net8.0\tarea001.deps.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\bin\Debug\net8.0\tarea001.runtimeconfig.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\bin\Debug\net8.0\tarea001.dll
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\bin\Debug\net8.0\tarea001.pdb
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\tarea001.csproj.AssemblyReference.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\tarea001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\tarea001.AssemblyInfoInputs.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\tarea001.AssemblyInfo.cs
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\tarea001.csproj.CoreCompileInputs.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\tarea001.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\tarea001.RazorAssemblyInfo.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\tarea001.RazorAssemblyInfo.cs
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\tarea001.sourcelink.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\staticwebassets\msbuild.tarea001.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\staticwebassets\msbuild.build.tarea001.props
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.tarea001.props
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.tarea001.props
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\scopedcss\bundle\tarea001.styles.css
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\scopedcss\projectbundle\tarea001.bundle.scp.css
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\tarea001.csproj.Up2Date
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\tarea001.dll
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\refint\tarea001.dll
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\tarea001.pdb
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\tarea001.genruntimeconfig.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\base de datos vs\programa\obj\Debug\net8.0\ref\tarea001.dll
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\bin\Debug\net8.0\appsettings.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\bin\Debug\net8.0\tarea001.staticwebassets.runtime.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\bin\Debug\net8.0\tarea001.exe
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\bin\Debug\net8.0\tarea001.deps.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\bin\Debug\net8.0\tarea001.runtimeconfig.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\bin\Debug\net8.0\tarea001.dll
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\bin\Debug\net8.0\tarea001.pdb
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\tarea001.csproj.AssemblyReference.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\tarea001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\tarea001.AssemblyInfoInputs.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\tarea001.AssemblyInfo.cs
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\tarea001.csproj.CoreCompileInputs.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\tarea001.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\tarea001.RazorAssemblyInfo.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\tarea001.RazorAssemblyInfo.cs
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\tarea001.sourcelink.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\staticwebassets\msbuild.tarea001.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\staticwebassets\msbuild.build.tarea001.props
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.tarea001.props
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.tarea001.props
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\scopedcss\bundle\tarea001.styles.css
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\scopedcss\projectbundle\tarea001.bundle.scp.css
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\tarea001.csproj.Up2Date
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\tarea001.dll
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\refint\tarea001.dll
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\tarea001.pdb
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\tarea001.genruntimeconfig.cache
+C:\Users\coleg\OneDrive\Documentos\GitHub\ING-COMPUTACION\TCBase\programa\obj\Debug\net8.0\ref\tarea001.dll

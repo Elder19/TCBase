@@ -1,0 +1,57 @@
+body {
+  font-family: 'Times New Roman', sans-serif;
+  background-color: rgb(117, 203, 200); /* Fondo de la página */
+}
+
+.datos.collecion {
+  background-color: #a0de96; /* Fondo del contenedor principal */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(205, 201, 201, 0.1);
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+h1.display-4 {
+  color: rgb(13, 13, 12); /* Color del título */
+  text-align: center;
+}
+
+form {
+  display: flow-root;
+  flex-direction: column;
+}
+
+  form div {
+      margin-bottom: 10px;
+  }
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+  input[type="text"]:focus {
+      border-color: rgb(39, 39, 38);
+  }
+
+button {
+  background-color: #007bff; /* Color del botón */
+  color: black;
+  padding: 10px 0px;
+  border: unset;
+  border-radius: 8px;
+  cursor: col-resize;
+  text-align: center;
+  display: ruby-base-container;
+  width: 100%;
+  margin-top: 20px;
+}
+
+  button:hover {
+      background-color: gold;
+  }

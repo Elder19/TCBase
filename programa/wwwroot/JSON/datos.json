@@ -1,0 +1,98 @@
+[
+  {
+    "Nombre": "Juan",
+    "Apellidos": "Pérez",
+    "Cedula": "12345678",
+    "Edad": "30",
+    "FechaNacimiento": "1994-01-15T00:00:00",
+    "Direccion": "Av. Libertador 100"
+  },
+  {
+    "Nombre": "María",
+    "Apellidos": "García",
+    "Cedula": "87654321",
+    "Edad": "25",
+    "FechaNacimiento": "1999-05-22T00:00:00",
+    "Direccion": "Calle 23, No. 45"
+  },
+  {
+    "Nombre": "Carlos",
+    "Apellidos": "Rodríguez",
+    "Cedula": "13579246",
+    "Edad": "40",
+    "FechaNacimiento": "1984-11-03T00:00:00",
+    "Direccion": "Calle Mayor 12"
+  },
+  {
+    "Nombre": "Ana",
+    "Apellidos": "Martínez",
+    "Cedula": "24681357",
+    "Edad": "32",
+    "FechaNacimiento": "1991-09-30T00:00:00",
+    "Direccion": "Av. de los Olivos 78"
+  },
+  {
+    "Nombre": "Luis",
+    "Apellidos": "Fernández",
+    "Cedula": "10293847",
+    "Edad": "29",
+    "FechaNacimiento": "1995-12-25T00:00:00",
+    "Direccion": "Plaza Central 3"
+  },
+  {
+    "Nombre": "Isabel",
+    "Apellidos": "Sánchez",
+    "Cedula": "56473829",
+    "Edad": "27",
+    "FechaNacimiento": "1997-07-07T00:00:00",
+    "Direccion": "Calle Nueva 56"
+  },
+  {
+    "Nombre": "Ricardo",
+    "Apellidos": "López",
+    "Cedula": "81927364",
+    "Edad": "35",
+    "FechaNacimiento": "1989-03-14T00:00:00",
+    "Direccion": "Calle del Sol 89"
+  },
+  {
+    "Nombre": "Laura",
+    "Apellidos": "Jiménez",
+    "Cedula": "09182734",
+    "Edad": "28",
+    "FechaNacimiento": "1996-08-19T00:00:00",
+    "Direccion": "Avenida del Mar 12"
+  },
+  {
+    "Nombre": "Miguel",
+    "Apellidos": "Torres",
+    "Cedula": "34567890",
+    "Edad": "31",
+    "FechaNacimiento": "1992-10-10T00:00:00",
+    "Direccion": "Calle del Río 45"
+  },
+  {
+    "Nombre": "Sofía",
+    "Apellidos": "Ramírez",
+    "Cedula": "90817263",
+    "Edad": "26",
+    "FechaNacimiento": "1998-04-04T00:00:00",
+    "Direccion": "Calle Verde 11"
+  },
+  {
+    "Nombre": "Elder",
+    "Apellidos": "Leon Perez",
+    "Cedula": "703080520",
+    "Edad": "20",
+    "FechaNacimiento": "2004-04-18T00:00:00",
+    "Direccion": "La bomba Limon"
+  },
+  {
+    "Nombre": "elder",
+    "Apellidos": "leon",
+    "Cedula": "703080502",
+    "Edad": "50",
+    "FechaNacimiento": "2024-08-29T00:00:00",
+    "Direccion": "elele"
+  }
+]

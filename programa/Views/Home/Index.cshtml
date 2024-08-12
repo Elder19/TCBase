@@ -1,0 +1,64 @@
+﻿@{
+    
+    ViewData["Title"] = "Recoleccion de datos";
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<div class="datos coleccion">
+    <h1 class="display-4">Registro de pacientes</h1>
+
+    <p> Ingrese los siguientes datos segun corresponde.</p>
+
+    <div id="recoleccion de datos">
+        <form id="registroForm">
+            <input type="text" id="name" name="name" placeholder="Nombre" required />
+
+            <input type="text" id="lastname" name="lastname" placeholder="Apellidos" required />
+            <div>
+                <input type="number" id="cedula" name="cedula" placeholder="Numero de cedula" maxlength="9" minlength="9" required />
+               
+              <input type="number" id="edad" name="edad" placeholder="Años cumplidos" minlength="1" required />
+            </div>
+             
+
+             <input type="date" id="FechaNacimiento" name="FechaNacimiento" required />
+            <div>
+               
+                <input type="text" id="direccion" name="direccion" placeholder="Direccion" required />
+            </div>
+            <button type="submit">Guardar</button>
+        </form>
+    </div>
+
+<script>
+    $(document).ready(function() {
+        $('#registroForm').on('submit', function(e) {
+            e.preventDefault(); // Evita que el formulario se envíe de forma tradicional
+
+            var url = '@Url.Action("DatosRegistro", "Home")'; // Obtiene la URL del método DatosRegistro
+          
+            var data = {
+                Nombre: $('#name').val(),
+                Apellidos: $('#lastname').val(),
+                Cedula: $('#cedula').val(),
+                FechaNacimiento: $('#FechaNacimiento').val(),
+                Edad: $('#edad').val(),
+                Direccion: $('#direccion').val()
+            };
+            $.ajax({
+                url: url,
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(data), // Convertimos el objeto a JSON
+                success: function(response) {
+                    alert(response.message); // Mostrar mensaje de éxito
+                    $('#registroForm')[0].reset(); // Limpiar todos los campos del formulario
+                },
+                error: function(xhr, status, error) {
+                    alert("Ocurrió un error al enviar los datos: " + error);
+                    $('#registroForm')[0].reset(); // Limpiar todos los campos del formulario
+                }
+            });
+        });
+    });
+</script>

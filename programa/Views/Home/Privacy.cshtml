@@ -1,0 +1,64 @@
+﻿@model List<tarea001.Models.RegistroPaciente>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datos de Pacientes</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 8px;
+            text-align: center;
+        body {
+  font-family: 'Times New Roman', sans-serif;
+  background-color: rgb(46, 214, 8); /* Fondo de la página */
+}
+        }
+    </style>
+</head>
+<body>
+    <h1>Datos de Pacientes</h1>
+    @if (Model != null && Model.Any())
+    {   /* Se crea la tabla, con sus columnas
+o recorre la lista, por objeto ingresando los datos actualizados*/
+        <table>
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Apellidos</th>
+                    <th>Cédula</th>
+                    <th>Fecha de Nacimiento</th>
+                    <th>Edad</th>
+                    <th>Dirección</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                @foreach (var paciente in Model)
+                {
+                    <tr>
+                        <td>@paciente.Nombre</td>
+                        <td>@paciente.Apellidos</td>
+                        <td>@paciente.Cedula</td>
+                        <td>@paciente.FechaNacimiento?.ToString("yyyy-MM-dd")</td>
+                        <td>@paciente.Edad</td>
+                        <td>@paciente.Direccion</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No hay datos disponibles.</p>
+    }
+</body>
+</html>
